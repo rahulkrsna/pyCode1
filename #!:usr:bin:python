@@ -1,0 +1,6 @@
+#!/usr/bin/python
+
+"""
+count the number of words in a string
+read the string from a file
+"""
